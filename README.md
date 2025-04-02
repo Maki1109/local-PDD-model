@@ -91,4 +91,3 @@ This README provides instructions on how to deploy and run YOLOv8 models locally
 * **Output:** The output will include bounding box coordinates, class labels, and confidence scores.
 * **Customization:** Refer to the Ultralytics documentation for more advanced options and customization: [Ultralytics YOLOv8 Documentation](https://docs.ultralytics.com/)
 
-## Example directory structure.
